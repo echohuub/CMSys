@@ -1,4 +1,5 @@
 *.o
 .DS_Store
-cmsys
 
+/cmsys/cmsys
+/tetris/tetris
